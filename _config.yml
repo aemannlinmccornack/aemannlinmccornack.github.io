@@ -34,6 +34,14 @@ author:
   uri              : # URL
   email            : "ml9634@princeton.edu" 
 
+  links:
+    - label: "Curriculum Vitae"
+      icon: "fas fa-fw fa-file"
+      url: "https://aemannlinmccornack.github.io/files/CV-ALM.pdf"
+    - label: "Politics Department, Princeton University"
+      icon: "fas fa-fw fa-university"
+      url: "https://politics.princeton.edu/people/aemann-lin-mccornack"
+
   # Academic websites
   academia         : "https://princeton.academia.edu/AemannLinMcCornack" 
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"

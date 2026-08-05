@@ -4,7 +4,6 @@ title: Aemann Lin-McCornack
 author_profile: true
 ---
 
-[CV](/files/CV-ALM.pdf) [Scholar](https://scholar.google.com/citations?user=hsUxJKQAAAAJ&hl=en) [Email](mailto:ml9634@princeton.edu) [Politics Department, Princeton University](https://politics.princeton.edu/people/aemann-lin-mccornack) 
 
 <p style="text-align: center; font-size: 1.1em;">
   <a href="#dissertation">Dissertation</a> &nbsp;&nbsp;&nbsp;
@@ -12,7 +11,7 @@ author_profile: true
   <a href="#working-papers">Working Papers</a>
 </p>
 
-I am a Ph.D. candidate in Politics at Princeton University. My research studies the politics of autocracy in, and through, the history of political thought. 
+I am a Ph.D. candidate in [Politics](https://politics.princeton.edu/people/aemann-lin-mccornack) at [Princeton University](https://www.princeton.edu). My research studies the politics of autocracy in, and through, the history of political thought.
 
 ## Dissertation
 
