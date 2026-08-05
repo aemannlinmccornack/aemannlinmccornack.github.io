@@ -4,9 +4,6 @@ title: Aemann Lin-McCornack
 author_profile: true
 ---
 
-
-
-
 [CV](/files/CV-ALM.pdf) [Scholar](https://scholar.google.com/citations?user=hsUxJKQAAAAJ&hl=en) [GitHub](https://github.com/aemannlinmccornack) [Email](mailto:ml9634@princeton.edu)
 
 [Dissertation](#dissertation) [Publications](#publications) [Working Papers](#working-papers) 
