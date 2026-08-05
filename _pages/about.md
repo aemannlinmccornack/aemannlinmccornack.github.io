@@ -26,10 +26,12 @@ My dissertation, The Politics of Ruling Alone, studies the classical origins of 
 This article critically analyzes the concept of synousia, an under-theorized term in late Plato's political thought. Through a textual analysis of the Minos and the Laws, it proposes a twofold institutional understanding of the term, redescribing synousia as denoting either a 'festive gathering' or an 'epistemic colloquium'. It argues that, while the former is designed to screen civic competence for soon-to-be officeholders and to contribute to social integration, the latter concerns only the knowledge habituation of exceptional constitutional founders and 'lawgivers' (νομοθέται) such as Minos or members of the Nocturnal Council. These findings suggest that even within the seemingly equal circle of politically active citizens, Plato's city-building project yields hierarchical results: while elite lawgivers are provided with quality access to philosophical knowledge of the law, average officeholders are not. This variegated access to these political spaces reveals a Plato who is at once deeply inegalitarian and deeply institutionally engaged.
 </details>
 
+
 **Slavery 'by Disposition' and 'by Categoricity': Revisiting Politics and Nature in Aristotle's Nature-Based Justifications of Enslavement.** *History of Political Thought* 47, no. 2 (2026): 241–269.
 <details><summary>Abstract</summary>
 Drawing on a comprehensive study of the 'by nature' (φύσει) formulation across the extant Aristotelean corpus in light of the linguistic construction of 'slave by nature' (φύσει δοῦλος) in Politics I, this article thematizes two separate senses of 'nature' (φύσις) embedded in Aristotle's general theory of nature-based enslavement: dispositional and categorical. Whereas a dispositional account highlights the socio-structural nature of slavery, a categorical perspective emphasizes an enslaved person's pre-habituated traits or natural essence as passed down congenitally and climatologically. These two perspectives end up being co-constitutive in Aristotle's justification of enslavement.
 </details>
+
 
 ## Working Papers
 
