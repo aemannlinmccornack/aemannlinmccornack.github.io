@@ -6,6 +6,8 @@ author_profile: true
 <style>
 .author__avatar img {
   border-radius: 0 !important;
+  border: none !important;
+  box-shadow: none !important;
 }
 </style>
 
