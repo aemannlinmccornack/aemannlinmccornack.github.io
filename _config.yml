@@ -26,19 +26,21 @@ author:
   avatar           : "https://aemannlinmccornack.github.io/images/aemann.jpeg"
   name             : "Aemann Lin-McCornack"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate, Department of Politics, Princeton University"
+  bio              : "Ph.D. Candidate, 
+                      Department of Politics, 
+                      Princeton University"
   location         : "Princeton, NJ, USA"
   employer         : 
   uri              : # URL
   email            : "ml9634@princeton.edu" 
 
   # Academic websites
-  academia         : "https://princeton.academia.edu/AemannLinMcCornack"
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  Academia         : "https://princeton.academia.edu/AemannLinMcCornack"
+  Princeton Website: "https://politics.princeton.edu/people/aemann-lin-mccornack" 
+  Google Scholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0005-3456-9056"
+  ORCID            : "https://orcid.org/0009-0005-3456-9056"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
