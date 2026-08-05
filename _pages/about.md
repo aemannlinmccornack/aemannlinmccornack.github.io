@@ -1,1 +1,33 @@
-My research studies the politics of autocracy in, and through, the history of political thought. Autocracy is among the most consequential governmental forms in contemporary politics. Just as recovering the historical, semantic, and conceptual meanings of democracy has deepened our understanding of present-day democracies, so too can studying those of autocracy retrieve the constellations of ideas and narratives that make up its political identity, governmental logic, and challenges, restoring to it its historicity and textuality. 
+---
+permalink: /
+title: "Aemann Lin-McCornack"
+author_profile: false
+---
+
+![Portrait of Your Name](/images/your-photo.jpg)
+
+# Aemann Lin-McCornack
+
+Ph.D. Candidate  
+[Politics](https://politics.princeton.edu/people/aemann-lin-mccornack)  
+Princeton University
+
+[CV](/files/CV-ALM.pdf) [Scholar](https://scholar.google.com/citations?user=hsUxJKQAAAAJ&hl=en) [GitHub](https://github.com/aemannlinmccornack.github.io) [Email](mailto:ml9634@princeton.edu, aemann@princeton.edu)
+
+[Dissertation](#dissertation) [Publications](#publications) [Working Papers](#working-papers) [Datasets](#datasets)
+
+I am a Ph.D. candidate in [Politics] at [Princeton University]. My research studies [the politics of autocracy in, and through, the history of political thought]. 
+
+## Dissertation
+
+**The Politics of Ruling Alone: Discursive Repertoires and the Contestations of Sole Rulership in Early China and Classical Greece ** The dissertation, The Politics of Ruling Alone, studies the classical origins of autocracy from a comparative perspective, spotlighting two sets of discourse repertoires from fourth- and third- century BCE legalist political thought in early China and fourth-century BCE monarchical political thought in classical Greece.The dissertation is divided into two parts. The first part features discursive repertoires of sole rulership in fourth century Greece. It expands upon the interplay between the relationality thesis and singularity thesis of sole rulership through textual analyses of Xenophon’s Hiero, Plato’s Republic, Isocrates’ Cyprian orations, and the Aristotelian corpus. The second part turns to early China for another articulation of the relationality-singularity interplay, focusing on rule of law and bureaucratic control at the court of fourth- and third-century BCE Qin through readings of the Xunzi, the Book of Lord Shang, political fragments of early legalist texts, and the Han Feizi. 
+
+## Publications
+
+1. **[“Slavery ‘by Disposition’ and ‘Categoricity:’ Revisiting Politics and Nature in Aristotle’s Nature-Based Justifications of Enslavement.”] *History of Political Thought 47, no. 2 (2026): 241-269.*.
+2.  **["Inegalitarian Institutional Design in Late Plato: Synousiai as ‘Festive Gathering’and ‘Epistemic Colloquium’in the Minos and the Laws.”] *Polis: The Journal for Ancient Greek and Roman Political Thought 43, no. 2 (2026): 254-284*. 
+
+## Working Papers
+
+1. **Of Bounds and Bonds: An Aristotelian Autocratic Typology** "Draft available upon request."
+2. **From Severance to Dependence: Preference Legibility, Bureaucratic Politics, and the Han Feizi’s Reconciliation of Rule of Law and Rule of One**  "Draft available upon request."
