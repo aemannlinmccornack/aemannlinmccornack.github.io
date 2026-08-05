@@ -35,12 +35,11 @@ author:
   email            : "ml9634@princeton.edu" 
 
   # Academic websites
-  Academia         : "https://princeton.academia.edu/AemannLinMcCornack"
-  Princeton Website: "https://politics.princeton.edu/people/aemann-lin-mccornack" 
-  Google Scholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  academia         : "https://princeton.academia.edu/AemannLinMcCornack" 
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  ORCID            : "https://orcid.org/0009-0005-3456-9056"
+  Orcid           : "https://orcid.org/0009-0005-3456-9056"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
