@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: #
+title: Aemann Lin-McCornack
 author_profile: false
 ---
 
-# Aemann Lin-McCornack
+
 
 Ph.D. Candidate  
 [Politics](https://politics.princeton.edu/people/aemann-lin-mccornack)  
@@ -12,13 +12,13 @@ Princeton University
 
 [CV](/files/CV-ALM.pdf) [Scholar](https://scholar.google.com/citations?user=hsUxJKQAAAAJ&hl=en) [GitHub](https://github.com/aemannlinmccornack.github.io) [Email](mailto:ml9634@princeton.edu, aemann@princeton.edu)
 
-[Dissertation](#dissertation) [Publications](#publications) [Working Papers](#working-papers) [Datasets](#datasets)
+[Dissertation](#dissertation) [Publications](#publications) [Working Papers](#working-papers) 
 
-I am a Ph.D. candidate in [Politics] at [Princeton University]. My research studies [the politics of autocracy in, and through, the history of political thought]. 
+I am a Ph.D. candidate in Politics at Princeton University. My research studies the politics of autocracy in, and through, the history of political thought. 
 
 ## Dissertation
 
-**The Politics of Ruling Alone: Discursive Repertoires and the Contestations of Sole Rulership in Early China and Classical Greece ** The dissertation, The Politics of Ruling Alone, studies the classical origins of autocracy from a comparative perspective, spotlighting two sets of discourse repertoires from fourth- and third- century BCE legalist political thought in early China and fourth-century BCE monarchical political thought in classical Greece.The dissertation is divided into two parts. The first part features discursive repertoires of sole rulership in fourth century Greece. It expands upon the interplay between the relationality thesis and singularity thesis of sole rulership through textual analyses of Xenophon’s Hiero, Plato’s Republic, Isocrates’ Cyprian orations, and the Aristotelian corpus. The second part turns to early China for another articulation of the relationality-singularity interplay, focusing on rule of law and bureaucratic control at the court of fourth- and third-century BCE Qin through readings of the Xunzi, the Book of Lord Shang, political fragments of early legalist texts, and the Han Feizi. 
+**The Politics of Ruling Alone: Discursive Repertoires and the Contestations of Sole Rulership in Early China and Classical Greece** The dissertation, The Politics of Ruling Alone, studies the classical origins of autocracy from a comparative perspective, spotlighting two sets of discourse repertoires from fourth- and third- century BCE legalist political thought in early China and fourth-century BCE monarchical political thought in classical Greece.The dissertation is divided into two parts. The first part features discursive repertoires of sole rulership in fourth century Greece. It expands upon the interplay between the relationality thesis and singularity thesis of sole rulership through textual analyses of Xenophon’s Hiero, Plato’s Republic, Isocrates’ Cyprian orations, and the Aristotelian corpus. The second part turns to early China for another articulation of the relationality-singularity interplay, focusing on rule of law and bureaucratic control at the court of fourth- and third-century BCE Qin through readings of the Xunzi, the Book of Lord Shang, political fragments of early legalist texts, and the Han Feizi. 
 
 ## Publications
 
