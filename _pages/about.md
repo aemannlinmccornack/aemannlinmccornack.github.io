@@ -15,10 +15,17 @@ body {
   background-attachment: fixed;
   background-position: center;
 }
-.page__content, .archive {
+.page__content, .archive, .sidebar {
   background: rgba(255, 255, 255, 0.95);
   padding: 30px;
   border-radius: 8px;
+}
+.page__title {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 20px 30px 10px 30px;
+  border-radius: 8px 8px 0 0;
+  margin-bottom: 0;
+  color: #1f3a5f;
 }
 </style>
 
