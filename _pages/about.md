@@ -35,5 +35,8 @@ Drawing on a comprehensive study of the 'by nature' (φύσει) formulation acr
 
 ## Working Papers
 
-1. Of Bounds and Bonds: An Aristotelian Autocratic Typology (Draft available upon request)
-2. From Severance to Dependence: Preference Legibility, Bureaucratic Politics, and the Han Feizi’s Reconciliation of Rule of Law and Rule of One (Draft available upon request)
+## Working Papers
+
+1. **Of Bounds and Bonds: An Aristotelian Autocratic Typology.** *(Draft available upon request.)*
+
+2. **From Severance to Dependence: Preference Legibility, Bureaucratic Politics, and the Han Feizi's Reconciliation of Rule of Law and Rule of One.** *(Draft available upon request.)* 
