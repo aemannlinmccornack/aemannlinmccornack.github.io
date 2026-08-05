@@ -1,10 +1,8 @@
 ---
 permalink: /
-title: "Aemann Lin-McCornack"
+title: #
 author_profile: false
 ---
-
-![Portrait of Your Name](/images/your-photo.jpg)
 
 # Aemann Lin-McCornack
 
