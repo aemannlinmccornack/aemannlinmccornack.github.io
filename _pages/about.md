@@ -22,10 +22,10 @@ I am a Ph.D. candidate in [Politics] at [Princeton University]. My research stud
 
 ## Publications
 
-1. **[“Slavery ‘by Disposition’ and ‘Categoricity:’ Revisiting Politics and Nature in Aristotle’s Nature-Based Justifications of Enslavement.”] *History of Political Thought 47, no. 2 (2026): 241-269.*.
-2.  **["Inegalitarian Institutional Design in Late Plato: Synousiai as ‘Festive Gathering’and ‘Epistemic Colloquium’in the Minos and the Laws.”] *Polis: The Journal for Ancient Greek and Roman Political Thought 43, no. 2 (2026): 254-284*. 
+1. Lin-McCornack, Aemann. "Inegalitarian Institutional Design in Late Plato: Synousiai as ‘Festive Gathering’and ‘Epistemic Colloquium’in the Minos and the Laws." Polis: The Journal for Ancient Greek and Roman Political Thought 43, no. 2 (2026): 254-284.
+2. Lin-McCornack, Aemann. "Slavery by Disposition and by Categoricity: Revisiting Politics and Nature in Aristotle’s Nature-Based Justifications of Enslavement." History of Political Thought 47, no. 2 (2026): 241-269. 
 
 ## Working Papers
 
-1. **Of Bounds and Bonds: An Aristotelian Autocratic Typology** "Draft available upon request."
-2. **From Severance to Dependence: Preference Legibility, Bureaucratic Politics, and the Han Feizi’s Reconciliation of Rule of Law and Rule of One**  "Draft available upon request."
+1. Of Bounds and Bonds: An Aristotelian Autocratic Typology (Draft available upon request)
+2. From Severance to Dependence: Preference Legibility, Bureaucratic Politics, and the Han Feizi’s Reconciliation of Rule of Law and Rule of One (Draft available upon request)
