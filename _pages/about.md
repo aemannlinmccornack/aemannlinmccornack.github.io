@@ -10,7 +10,7 @@ Ph.D. Candidate
 [Politics](https://politics.princeton.edu/people/aemann-lin-mccornack)  
 Princeton University
 
-[CV](/files/CV-ALM.pdf) [Scholar](https://scholar.google.com/citations?user=hsUxJKQAAAAJ&hl=en) [GitHub](https://github.com/aemannlinmccornack.github.io) [Email](mailto:ml9634@princeton.edu, aemann@princeton.edu)
+[CV](/files/CV-ALM.pdf) [Scholar](https://scholar.google.com/citations?user=hsUxJKQAAAAJ&hl=en) [GitHub](https://github.com/aemannlinmccornack) [Email](mailto:ml9634@princeton.edu)
 
 [Dissertation](#dissertation) [Publications](#publications) [Working Papers](#working-papers) 
 
