@@ -26,13 +26,14 @@ author:
   avatar           : "https://aemannlinmccornack.github.io/images/aemann.jpeg"
   name             : "Aemann Lin-McCornack"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate, 
-                      Department of Politics, 
-                      Princeton University"
+  bio              : "Ph.D. Candidate" 
+  bio              : "Department of Politics" 
+  bio              : "Princeton Univerisity"
   location         : "Princeton, NJ, USA"
   employer         : 
   uri              : # URL
   email            : "ml9634@princeton.edu" 
+  email            : "aemann@princeton.edu" 
 
   links:
     - label: "Curriculum Vitae"
