@@ -9,6 +9,17 @@ author_profile: true
   border: none !important;
   box-shadow: none !important;
 }
+body {
+  background-image: url("https://aemannlinmccornack.github.io/images/William.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+}
+.page__content, .archive {
+  background: rgba(255, 255, 255, 0.95);
+  padding: 30px;
+  border-radius: 8px;
+}
 </style>
 
 <div style="border-left: 3px solid #1f3a5f; background: #f5f7fa; padding: 8px 16px; margin: 16px 0; color: #333;">
