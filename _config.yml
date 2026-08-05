@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Aemann Lin-McCornack / My Academic Portfolio"
+title                    : "Aemann Lin-McCornack"
 title_separator          : "-"
 name                     : &name "Aemann Lin-McCornack"
 description              : &description "Aemann Lin-McCornack's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,24 +24,26 @@ repository               : "aemannlinmccornack/aemannlinmccornack.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Aemann Lin-McCornack"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Ph.D. Candidate
+                      Department of Politics 
+                      Princeton University"
+  location         : "Princeton, NJ, USA"
+  employer         : "Princeton University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ml9634@princeton.edu, aemann@princeton.edu" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://princeton.academia.edu/AemannLinMcCornack"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-3456-9056"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,13 +53,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "aemannlinmccornack.github.io"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -84,12 +86,9 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  articles:
+    title: 'Lin-McCornack, Aemann. "Inegalitarian Institutional Design in Late Plato: Synousiai as ‘Festive Gathering’and ‘Epistemic Colloquium’in the Minos and the Laws." Polis: The Journal for Ancient Greek and Roman Political Thought 43, no. 2 (2026): 254-284.'
+    title: 'Lin-McCornack, Aemann. "Slavery by Disposition and by Categoricity: Revisiting Politics and Nature in Aristotle’s Nature-Based Justifications of Enslavement." History of Political Thought 47, no. 2 (2026): 241-269.'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
