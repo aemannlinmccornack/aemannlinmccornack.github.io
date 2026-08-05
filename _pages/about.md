@@ -4,7 +4,7 @@ title: Aemann Lin-McCornack
 author_profile: false
 ---
 
-![Portrait of Your Name](/images/IMAGE.HEIC)
+![Portrait of Your Name](/images/IMAGE.jpeg)
 
 Ph.D. Candidate  
 [Politics](https://politics.princeton.edu/people/aemann-lin-mccornack)  
