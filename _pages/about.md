@@ -4,7 +4,7 @@ title: Aemann Lin-McCornack
 author_profile: true
 ---
 
-[CV](/files/CV-ALM.pdf) [Scholar](https://scholar.google.com/citations?user=hsUxJKQAAAAJ&hl=en) [Email](mailto:ml9634@princeton.edu) [Politics](https://politics.princeton.edu/people/aemann-lin-mccornack) 
+[CV](/files/CV-ALM.pdf) [Scholar](https://scholar.google.com/citations?user=hsUxJKQAAAAJ&hl=en) [Email](mailto:ml9634@princeton.edu) [Politics Department, Princeton University](https://politics.princeton.edu/people/aemann-lin-mccornack) 
 
 <p style="text-align: center; font-size: 1.1em;">
   <a href="#dissertation">Dissertation</a> &nbsp;&nbsp;&nbsp;
