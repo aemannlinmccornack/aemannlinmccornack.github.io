@@ -23,16 +23,14 @@ repository               : "aemannlinmccornack/aemannlinmccornack.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/aemann.jpeg"
   name             : "Aemann Lin-McCornack"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate
-                      Department of Politics 
-                      Princeton University"
+  bio              : "Ph.D. Candidate, Department of Politics, Princeton University"
   location         : "Princeton, NJ, USA"
-  employer         : "Princeton University"
+  employer         : 
   uri              : # URL
-  email            : "ml9634@princeton.edu, aemann@princeton.edu" 
+  email            : "ml9634@princeton.edu" 
 
   # Academic websites
   academia         : "https://princeton.academia.edu/AemannLinMcCornack"
@@ -53,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "aemannlinmccornack.github.io"
+  github           : "aemannlinmccornack"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

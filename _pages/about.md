@@ -1,9 +1,9 @@
 ---
 permalink: /
 title: Aemann Lin-McCornack
-author_profile: false
+author_profile: true
 ---
-<img src="/images/aemann.jpeg" alt="Aemann Lin-McCornack" width="250"> 
+
 
 Ph.D. Candidate  
 [Politics](https://politics.princeton.edu/people/aemann-lin-mccornack)  
