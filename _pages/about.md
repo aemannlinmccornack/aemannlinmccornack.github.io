@@ -28,7 +28,7 @@ body {
   color: #1f3a5f;
 }
 .sidebar {
-  background: rgba(91, 21, 35, 0.10);
+  background: rgba(245, 235, 237, 0.96);
   padding: 30px;
   border-radius: 8px;
 }
