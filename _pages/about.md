@@ -47,6 +47,9 @@ body {
   width: 200px;
   text-align: center;
 }
+#theme-toggle {
+  display: none !important;
+}
 .sidebar {
   background: rgba(165, 62, 40, 0.94);
   padding: 30px;
