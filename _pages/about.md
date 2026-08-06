@@ -40,8 +40,8 @@ summary {
 }
 </style>
 
-<div style="border-left: 3px solid #16293f; background: #f5f7fa; padding: 8px 16px; margin: 16px 0; color: #333;">
-<strong style="color: #16293f;">Job Market:</strong> I am on the 2026–27 academic job market. <a href="https://aemannlinmccornack.github.io/files/ALM-CV.pdf">CV</a>
+<div style="background: #16293f; padding: 12px 18px; margin: 16px 0; border-radius: 6px; color: #ffffff;">
+<strong style="color: #ffffff;">Job Market:</strong> I am on the 2026–27 academic job market. <a href="https://aemannlinmccornack.github.io/files/ALM-CV.pdf" style="color: #ffffff; text-decoration: underline;">CV</a>
 </div>
 
 I am a Ph.D. candidate in [Politics](https://politics.princeton.edu/people/aemann-lin-mccornack) at [Princeton University](https://www.princeton.edu). My research studies the politics of autocracy in, and through, the history of political thought.
