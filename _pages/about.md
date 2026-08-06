@@ -106,8 +106,18 @@ Guest lecturer on Plato's *Republic*, Books 8–9.
 **Spring 2025 — POL 380 & SPI 319: "Human Rights"** (International Relations/SPIA, Advanced Undergraduate)
 Head Teaching Assistant (Preceptor). Teaching evaluation: 5/5. 
 
+<details><summary>Selected Anonymous Student Evaluations</summary>
+1. "I found precepts to be incredible; I truly looked forward to them! Aemann was extremely helpful in allowing us to better understand the material and made sure to always offer to help after class if needed!" 
+2. "Aemann was a phenomenal preceptor!! They were great at engaging the class and explaining tough concepts, and super accomodating."
+3. "Aemann is incredible, so smart and I honestly loved going to precept bc of her." 
+</details>
+
 **Fall 2024 — POL 210: "Introduction to Political Theory"** (Political Theory, Introductory Undergraduate)
 
+<details><summary>Selected Anonymous Student Evaluations</summary>
+1. "Precepts were phenomenal. Aemann gave us in–depth handouts outlining important quotes from each of the readings. Often had very intellectually stimulating deliberations and though experiments in precept."
+2. "Precepts each week were very engaging and I often looked forward to Wednesdays for opportunities to analyze the texts on a deeper level. Our preceptor regularly exposed us to unique perspectives in examining each text, and I often left precept with a new approach in looking at each reading. They were also very cognizant of each student's participation, ensuring that everyone in class had an equal opportunity to contribute to in–class discussion. The feedback I received on my midterm paper was also incredibly thorough, and greatly improved my writing both in content of my arguments and technical ability." 
+</details>
 
 ## Syllabuses 
 
