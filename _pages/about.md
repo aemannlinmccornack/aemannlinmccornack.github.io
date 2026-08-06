@@ -66,10 +66,12 @@ I can be reached at ml9634@princeton.edu or aemann@princeton.edu. Please do not 
 ***The Politics of Ruling Alone: Discursive Repertoires and the Contestations of Sole Rulership in Early China and Classical Greece*** 
 
 <details><summary>Abstract</summary>
-My dissertation and first book project, The Politics of Ruling Alone, studies the classical origins of autocracy from a comparative perspective, spotlighting two sets of discourse repertoires from fourth- and third- century BCE legalist political thought in early China and fourth-century BCE monarchical political thought in classical Greece. I read these traditions together through the analytic of "sole rulership" (Alleinherrschaft), in doing so, thematizing a singularity-relationality dilemma undergirding the political theory of ruling alone. The project follows a two-step itinerary. In the first, it traces the discursive repertoires of sole rulership in fourth century Greece. It expands upon the interplay between the relationality thesis and singularity thesis of sole rulership through textual analyses of Xenophon’s Hiero, Plato’s Republic, Isocrates’ Cyprian orations, and the Aristotelian corpus including the Politics and Oeconomica. In the second, it turns to early China for another articulation of the relationality-singularity interplay, focusing on rule of law and bureaucratic control at the court of fourth- and third-century BCE Qin through readings of the Xunzi, the Book of Lord Shang, political fragments of early legalist texts, and the Han Feizi. 
+
+My dissertation and first book project, *The Politics of Ruling Alone*, studies the classical origins of autocracy from a comparative perspective, spotlighting two sets of discourse repertoires from fourth- and third- century BCE legalist political thought in early China and fourth-century BCE monarchical political thought in classical Greece. I read these traditions together through the analytic of "sole rulership" (*Alleinherrschaft*), in doing so, thematizing a singularity-relationality dilemma undergirding the political theory of ruling alone. The project follows a two-step itinerary. In the first, it traces the discursive repertoires of sole rulership in fourth century Greece. It expands upon the interplay between the relationality thesis and singularity thesis of sole rulership through textual analyses of Xenophon’s *Hiero*, Plato’s *Republic*, Isocrates’ Cyprian orations, and the Aristotelian corpus including the *Politics* and the pseudo-Aristotelian treatise *Oeconomica*. In the second, it turns to early China for another articulation of the relationality-singularity interplay, focusing on rule of law and bureaucratic control at the court of fourth- and third-century BCE Qin through readings of the *Xunzi*, *the Book of Lord Shang*, political fragments of early legalist texts such as the *Shenzi*, and the *Han Feizi*. 
 
 
 My comparative methodology draws on three disciplinary registers: political theory, comparative politics. In doing so, it hopes to reintegrate two exceptionally influential strands of ancient political discourse into the broader canon of political theory, thereby reconstructing a more integrated curriculum for the political theory of one-person rule. Though I deploy neither “autocracy” nor “authoritarianism” as technical terms in characterizing one-person rule in comparative antiquity, this dissertation contributes to the recent scholarship of making sense of the historicity of autocracy by tracing its diverse intellectual heritage and texts before the second half of the twentieth century. Placing early Chinese and Greek reflections on sole rule within a shared conceptual frame reveals that thinkers separated by language, geography, and idiom converged on the same underlying problem, that is, how to rule alone without ruling alone, and diverged instructively in how they proposed to solve it. 
+
 </details> 
 
 
@@ -100,23 +102,33 @@ Drawing on a comprehensive study of the 'by nature' (φύσει) formulation acr
 
 ## Teaching
 
-**Spring 2026 — POL 513: "Plato's *Republic*"** (Political Theory / Classics, Graduate Seminar)
+**Spring 2026 — POL 513: "Plato's *Republic*"** 
+(Political Theory / Classics, Graduate Seminar)
 Guest lecturer on Plato's *Republic*, Books 8–9.
 
-**Spring 2025 — POL 380 & SPI 319: "Human Rights"** (International Relations/SPIA, Advanced Undergraduate)
-Head Teaching Assistant (Preceptor). Teaching evaluation: 5/5. 
+**Spring 2025 — POL 380 & SPI 319: "Human Rights"** 
+(International Relations/SPIA, Advanced Undergraduate)
+Head Teaching Assistant (Preceptor). 
+Teaching evaluation: 5/5. 
 
 <details><summary>Selected Anonymous Student Evaluations</summary>
+
 1. "I found precepts to be incredible; I truly looked forward to them! Aemann was extremely helpful in allowing us to better understand the material and made sure to always offer to help after class if needed!" 
+
 2. "Aemann was a phenomenal preceptor!! They were great at engaging the class and explaining tough concepts, and super accomodating."
+
 3. "Aemann is incredible, so smart and I honestly loved going to precept bc of her." 
 </details>
 
-**Fall 2024 — POL 210: "Introduction to Political Theory"** (Political Theory, Introductory Undergraduate)
+**Fall 2024 — POL 210: "Introduction to Political Theory"** 
+(Political Theory, Introductory Undergraduate)
 
 <details><summary>Selected Anonymous Student Evaluations</summary>
-1. "Precepts were phenomenal. Aemann gave us in–depth handouts outlining important quotes from each of the readings. Often had very intellectually stimulating deliberations and though experiments in precept."
+
+1. "Precepts were phenomenal. Aemann gave us in–depth handouts outlining important quotes from each of the readings. Often had very intellectually stimulating deliberations and though experiments in precept." 
+
 2. "Precepts each week were very engaging and I often looked forward to Wednesdays for opportunities to analyze the texts on a deeper level. Our preceptor regularly exposed us to unique perspectives in examining each text, and I often left precept with a new approach in looking at each reading. They were also very cognizant of each student's participation, ensuring that everyone in class had an equal opportunity to contribute to in–class discussion. The feedback I received on my midterm paper was also incredibly thorough, and greatly improved my writing both in content of my arguments and technical ability." 
+
 </details>
 
 ## Syllabuses 
