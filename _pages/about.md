@@ -137,3 +137,5 @@ Teaching evaluation: 5/5.
 2. POL 553: Plato's *Gorgias* [with Melissa Lane] (available upon request) 
 
 (Yes, "syllabuses." "Syllabus" is a Renaissance misreading of Greek σιττύβας, not a real Latin noun — so "syllabi" is a hypercorrection.)
+
+Background Image: Blake, William. "Behemoth and Leviathan," in *Illustrations of the Book of Job*. 1825–26. Engraving. The Metropolitan Museum of Art, NY. The serpent is the Leviathan.  
