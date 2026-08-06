@@ -57,6 +57,9 @@ body {
 .masthead__inner-wrap {
   background: transparent !important;
 }
+.greedy-nav {
+  background: transparent !important;
+}
 .masthead a,
 .greedy-nav a,
 .greedy-nav .site-title {
