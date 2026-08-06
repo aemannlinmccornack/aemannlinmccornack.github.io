@@ -52,7 +52,7 @@ summary {
 <strong style="color: #ffffff;">Job Market:</strong> I am on the 2026–27 academic job market. <a href="https://aemannlinmccornack.github.io/files/ALM-CV.pdf" style="color: #ffffff; text-decoration: underline;">CV</a>
 </div>
 
-I am a Ph.D. candidate in [Politics](https://politics.princeton.edu/people/aemann-lin-mccornack) at [Princeton University](https://www.princeton.edu). My research studies the politics of autocracy in, and through, the history of political thought. 
+I am a Ph.D. candidate in [Politics](https://politics.princeton.edu/people/aemann-lin-mccornack) at [Princeton University](https://www.princeton.edu) and a recipient of the [Laurance S. Rockefeller Graduate Prize Fellowship](https://uchv.princeton.edu/fellowships-funding/graduate/graduate-prize-fellowships) (University Center for Human Values), 2025–2026. My research studies the politics of autocracy in, and through, the history of political thought, with a special focus on early China and classical Greece. 
 
 ## Dissertation
 
