@@ -42,6 +42,11 @@ body {
   padding-bottom: 0.3em;
   color: #1f3a5f;
 }
+.site-title {
+  display: inline-block;
+  width: 200px;
+  text-align: center;
+}
 .sidebar {
   background: rgba(165, 62, 40, 0.94);
   padding: 30px;
