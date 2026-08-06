@@ -56,7 +56,7 @@ I am a Ph.D. candidate in [Politics](https://politics.princeton.edu/people/aeman
 
 ## Dissertation
 
-**The Politics of Ruling Alone: Discursive Repertoires and the Contestations of Sole Rulership in Early China and Classical Greece** 
+***The Politics of Ruling Alone: Discursive Repertoires and the Contestations of Sole Rulership in Early China and Classical Greece*** 
 
 My dissertation, *The Politics of Ruling Alone*, studies the classical origins of autocracy from a comparative perspective, spotlighting two sets of discourse repertoires from fourth- and third- century BCE legalist political thought in early China and fourth-century BCE monarchical political thought in classical Greece. The dissertation is divided into two parts. The first part features discursive repertoires of sole rulership in fourth century Greece. It expands upon the interplay between the relationality thesis and singularity thesis of sole rulership through textual analyses of Xenophon’s *Hiero*, Plato’s *Republic*, Isocrates’ Cyprian orations, and the Aristotelian corpus including the *Politics* and *Oeconomica*. The second part turns to early China for another articulation of the relationality-singularity interplay, focusing on rule of law and bureaucratic control at the court of fourth- and third-century BCE Qin through readings of the *Xunzi*, *the Book of Lord Shang*, political fragments of early legalist texts, and the *Han Feizi*. 
 
@@ -79,3 +79,21 @@ Drawing on a comprehensive study of the 'by nature' (φύσει) formulation acr
 1. **Of Bounds and Bonds: An Aristotelian Autocratic Typology.** *(Draft available upon request.)*
 
 2. **From Severance to Dependence: Preference Legibility, Bureaucratic Politics, and the Han Feizi's Reconciliation of Rule of Law and Rule of One.** *(Draft available upon request.)* 
+
+
+## Teaching
+
+**Spring 2026 — POL 513: "Plato's *Republic*"** (Political Theory / Classics, Graduate Seminar)
+Guest lecturer on Plato's *Republic*, Books 8–9.
+
+**Spring 2025 — POL 380 & SPI 319: "Human Rights"** (International Relations/SPIA, Advanced Undergraduate)
+Head Teaching Assistant (Preceptor). Teaching evaluation: 5/5. 
+
+**Fall 2024 — POL 210: "Introduction to Political Theory"** (Political Theory, Introductory Undergraduate)
+
+## Syllabuses 
+
+1. Ruling Alone: Concepts of Autocracy in the History of Political Thought (available upon request) [2026] 
+2. POL 553: Plato's *Gorgias* [with Melissa Lane] [2022/3] 
+
+(Yes, "syllabuses." "Syllabus" is a Renaissance misreading of Greek σιττύβας, not a real Latin noun — so "syllabi" is a hypercorrection.)
