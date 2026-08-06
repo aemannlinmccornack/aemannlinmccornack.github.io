@@ -34,6 +34,7 @@ author:
   uri              : # URL
   email            : "ml9634@princeton.edu" 
   email            : "aemann@princeton.edu" 
+  Illustration     : Black, William. "Behemoth and Leviathan," in *Illustrations of the Book of Job*. 1825–26. Engraving. The Metropolitan Museum of Art, NY. The serpent is Leviathan.  
 
   links:
     - label: "Curriculum Vitae"
@@ -90,12 +91,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  articles:
-    title: 'Lin-McCornack, Aemann. "Inegalitarian Institutional Design in Late Plato: Synousiai as ‘Festive Gathering’and ‘Epistemic Colloquium’in the Minos and the Laws." Polis: The Journal for Ancient Greek and Roman Political Thought 43, no. 2 (2026): 254-284.'
-    title: 'Lin-McCornack, Aemann. "Slavery by Disposition and by Categoricity: Revisiting Politics and Nature in Aristotle’s Nature-Based Justifications of Enslavement." History of Political Thought 47, no. 2 (2026): 241-269.'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
