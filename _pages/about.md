@@ -92,6 +92,10 @@ Drawing on a comprehensive study of the 'by nature' (φύσει) formulation acr
 2. **From Severance to Dependence: Preference Legibility, Bureaucratic Politics, and the Han Feizi's Reconciliation of Rule of Law and Rule of One.** *(Draft available upon request.)* 
 
 
+## Future Project 
+
+
+
 ## Teaching
 
 **Spring 2026 — POL 513: "Plato's *Republic*"** (Political Theory / Classics, Graduate Seminar)
