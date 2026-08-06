@@ -5,7 +5,7 @@ author_profile: true
 ---
 <style>
 #main {
-  max-width: 1600px !important;
+  max-width: 1800px !important;
 }
 .author__avatar img {
   border-radius: 0 !important;
