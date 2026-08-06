@@ -36,6 +36,10 @@ body {
 .page__content {
   border-radius: 0 0 8px 8px !important;
   margin-top: 0 !important;
+} 
+.page__content h2 {
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 0.3em;
 }
 .sidebar {
   background: rgba(165, 62, 40, 0.94);
