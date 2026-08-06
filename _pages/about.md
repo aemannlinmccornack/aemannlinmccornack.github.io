@@ -73,7 +73,7 @@ summary {
 
 I am a Ph.D. candidate in [Politics](https://politics.princeton.edu/people/aemann-lin-mccornack) at [Princeton University](https://www.princeton.edu) and a recipient of the [Laurance S. Rockefeller Graduate Prize Fellowship](https://uchv.princeton.edu/fellowships-funding/graduate/graduate-prize-fellowships) (University Center for Human Values), 2025–2026. My research studies the politics of autocracy in, and through, the history of political thought. 
 
-I am currently working on my first book project, ***The Politics of Ruling Alone***, where I trace the classical origins of autocracy through a focus on early China and classical Greece. I am interested in questions of comparative methodology as well as exploring the intersections of political thought, comparative politics, intertextuality/textual criticism, and materiality (classical Greek epigraphy; pre-imperial/Qin/Han excavated manuscripts). 
+My first book project, ***The Politics of Ruling Alone***, traces the classical origins of autocracy across early China and classical Greece. This work sits at the intersection of political thought, comparative politics, intertextuality/textual criticism, and materiality (classical Greek epigraphy; pre-imperial/Qin/Han excavated manuscripts), and it has sharpened my interest in questions of comparative methodology. Beyond method, my substantive concerns lie with the study of trauma, injustice, and illiberal political thought. See "Publications" and "Future Project" for more. 
 
 I can be reached at [ml9634@princeton.edu](mailto:ml9634@princeton.edu) or [aemann@princeton.edu](mailto:aemann@princeton.edu). Please do not hesitate to reach out! 
 
