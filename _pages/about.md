@@ -91,9 +91,10 @@ Head Teaching Assistant (Preceptor). Teaching evaluation: 5/5.
 
 **Fall 2024 — POL 210: "Introduction to Political Theory"** (Political Theory, Introductory Undergraduate)
 
+
 ## Syllabuses 
 
-1. Ruling Alone: Concepts of Autocracy in the History of Political Thought (available upon request) [2026] 
-2. POL 553: Plato's *Gorgias* [with Melissa Lane] [2022/3] 
+1. [SAMPLE] Ruling Alone: Concepts of Autocracy in the History of Political Thought (available upon request)
+2. POL 553: Plato's *Gorgias* [with Melissa Lane] (available upon request) 
 
 (Yes, "syllabuses." "Syllabus" is a Renaissance misreading of Greek σιττύβας, not a real Latin noun — so "syllabi" is a hypercorrection.)
