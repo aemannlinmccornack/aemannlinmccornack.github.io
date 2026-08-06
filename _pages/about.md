@@ -120,14 +120,12 @@ Drawing on a comprehensive study of the 'by nature' (φύσει) formulation acr
 
 ## Teaching
 
-**Spring 2026 — POL 513: "Plato's *Republic*"** 
-(Political Theory / Classics, Graduate Seminar)
+**Spring 2026 — POL 513: "Plato's *Republic*"** (Political Theory / Classics, Graduate Seminar)<br>
 Guest lecturer on Plato's *Republic*, Books 8–9.
 
-**Spring 2025 — POL 380 & SPI 319: "Human Rights"** 
-(International Relations/SPIA, Advanced Undergraduate)
-Head Teaching Assistant (Preceptor). 
-Teaching evaluation: 5/5. 
+**Spring 2025 — POL 380 & SPI 319: "Human Rights"** (International Relations/SPIA, Advanced Undergraduate)<br>
+Head Teaching Assistant (Preceptor).<br>
+Teaching evaluation: 5/5.
 
 <details>
 <summary> Anonymous Student Evaluations</summary>
