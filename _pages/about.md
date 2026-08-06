@@ -54,6 +54,7 @@ body {
   background: rgba(165, 62, 40, 0.94);
   padding: 30px;
   border-radius: 8px;
+  margin-left: 30px;
 }
 .sidebar, .sidebar a {
   color: #ffffff !important;
