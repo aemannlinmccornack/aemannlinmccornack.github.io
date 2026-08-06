@@ -52,7 +52,15 @@ body {
   display: none !important;
 }
 .masthead {
-  background: rgba(8, 69, 126, 0.94) !important;
+  background: rgba(0, 105, 148, 0.94) !important;
+}
+.masthead__inner-wrap {
+  background: transparent !important;
+}
+.masthead a,
+.greedy-nav a,
+.greedy-nav .site-title {
+  color: #fff !important;
 }
 .sidebar {
   background: rgba(165, 62, 40, 0.94);
