@@ -50,6 +50,9 @@ body {
 #theme-toggle {
   display: none !important;
 }
+.masthead {
+  background: rgba(8, 69, 126, 0.94) !important;
+}
 .sidebar {
   background: rgba(165, 62, 40, 0.94);
   padding: 30px;
