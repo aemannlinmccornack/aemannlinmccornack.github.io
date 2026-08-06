@@ -4,6 +4,9 @@ title: Aemann Lin-McCornack
 author_profile: true
 ---
 <style>
+#main {
+  max-width: 1600px !important;
+}
 .author__avatar img {
   border-radius: 0 !important;
   border: none !important;
