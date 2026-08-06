@@ -59,6 +59,8 @@ I am a Ph.D. candidate in [Politics](https://politics.princeton.edu/people/aeman
 
 I am currently working on my first book project, ***The Politics of Ruling Alone***, where I trace the classical origins of autocracy through a focus on early China and classical Greece. I am interested in questions of comparative methodology as well as exploring the intersections of political thought, comparative politics, intertextuality/textual criticism, and materiality (classical Greek epigraphy; pre-imperial/Qin/Han excavated manuscripts). Methodological quandaries aside, my substantive interests lie in the history of political concepts and representations of **trauma**, **injustice**, and **subjugation**. For more details, see "Publications" and "Future Project." 
 
+I can be reached at ml9634@princeton.edu or aemann@princeton.edu. Please do not hesitate to reach out!
+
 ## Dissertation | First Book Project
 
 ***The Politics of Ruling Alone: Discursive Repertoires and the Contestations of Sole Rulership in Early China and Classical Greece*** 
