@@ -15,7 +15,7 @@ body {
   background-attachment: fixed;
   background-position: center;
 }
-.page__content, .archive, .sidebar {
+.page__content, .archive {
   background: rgba(255, 255, 255, 0.95);
   padding: 30px;
   border-radius: 8px;
@@ -27,9 +27,10 @@ body {
   margin-bottom: 0;
   color: #1f3a5f;
 }
-.page__content {
-  border-radius: 0 0 8px 8px !important;
-  margin-top: 0 !important;
+.sidebar {
+  background: rgba(91, 21, 35, 0.10);
+  padding: 30px;
+  border-radius: 8px;
 }
 details {
   margin: 10px 0 20px 0;
