@@ -28,9 +28,12 @@ body {
   color: #1f3a5f;
 }
 .sidebar {
-  background: rgba(245, 235, 237, 0.96);
+  background: rgba(165, 62, 40, 0.94);
   padding: 30px;
   border-radius: 8px;
+}
+.sidebar, .sidebar a {
+  color: #ffffff !important;
 }
 details {
   margin: 10px 0 20px 0;
