@@ -27,6 +27,10 @@ body {
   margin-bottom: 0;
   color: #1f3a5f;
 }
+.page__content {
+  border-radius: 0 0 8px 8px !important;
+  margin-top: 0 !important;
+}
 .sidebar {
   background: rgba(165, 62, 40, 0.94);
   padding: 30px;
