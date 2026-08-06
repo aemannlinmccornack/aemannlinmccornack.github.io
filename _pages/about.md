@@ -15,6 +15,9 @@ body {
   background-attachment: fixed;
   background-position: center;
 }
+.page__footer {
+  display: none !important;
+}
 .page__content, .archive {
   background: rgba(255, 255, 255, 0.95);
   padding: 30px;
