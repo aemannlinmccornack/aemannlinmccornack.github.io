@@ -31,6 +31,13 @@ body {
   border-radius: 0 0 8px 8px !important;
   margin-top: 0 !important;
 }
+details {
+  margin: 10px 0 20px 0;
+}
+summary {
+  cursor: pointer;
+  margin-bottom: 8px;
+}
 </style>
 
 <div style="border-left: 3px solid #16293f; background: #f5f7fa; padding: 8px 16px; margin: 16px 0; color: #333;">
