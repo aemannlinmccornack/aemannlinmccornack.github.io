@@ -43,8 +43,15 @@ body {
   padding-bottom: 0.3em;
   color: #1f3a5f;
 }
-.masthead__menu-item--lg {
-  display: none !important;
+.masthead__menu-item--lg a {
+  font-size: 0 !important;
+}
+.masthead__menu-item--lg a::before {
+  content: "ALM";
+  font-size: 1rem !important;
+  font-weight: 600;
+  color: #fff !important;
+  letter-spacing: 1px;
 }
 .greedy-nav .visible-links {
   margin-left: auto;
