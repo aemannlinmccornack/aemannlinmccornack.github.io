@@ -147,7 +147,6 @@ Guest lecturer on Plato's *Republic*, Books 8–9.
 **Spring 2025 — POL 380 & SPI 319: "Human Rights"** (International Relations/SPIA, Advanced Undergraduate)<br>
 Head Teaching Assistant (Preceptor).<br>
 Teaching evaluation: 5/5.
-
 <details>
 <summary> Anonymous Student Evaluations</summary>
 
@@ -161,7 +160,6 @@ Teaching evaluation: 5/5.
 
 **Fall 2024 — POL 210: "Introduction to Political Theory"** 
 (Political Theory, Introductory Undergraduate)
-
 <details><summary> Anonymous Student Evaluations</summary>
 
 <ol>
