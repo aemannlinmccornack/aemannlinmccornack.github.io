@@ -46,7 +46,7 @@ body {
   display: inline-block;
   width: 200px;
   text-align: center;
-  margin-left: 40px;
+  margin-left: 20px;
 }
 #theme-toggle {
   display: none !important;
