@@ -109,7 +109,7 @@ summary {
 </style>
 
 <div style="border-left: 4px solid #16293f; background: #eef2f8; padding: 12px 18px; margin: 16px 0; border-radius: 4px; color: #16293f;">
-<span style="background: #16293f; color: #ffffff; padding: 3px 10px; border-radius: 3px; font-size: 0.85em; font-weight: 700; letter-spacing: 0.5px;">JOB MARKET</span> &nbsp; I am on the 2026–27 academic job market. <a href="https://aemannlinmccornack.github.io/files/CVALM2.pdf" style="color: #16293f; font-weight: 600;">CV</a>
+<span style="background: #16293f; color: #ffffff; padding: 3px 10px; border-radius: 3px; font-size: 0.85em; font-weight: 700; letter-spacing: 0.5px;">JOB MARKET</span> &nbsp; I am on the 2026–27 academic job market. <a href="https://aemannlinmccornack.github.io/files/CVALM3.pdf" style="color: #16293f; font-weight: 600;">CV</a>
 </div>
 
 I am a Ph.D. candidate in [Politics](https://politics.princeton.edu/people/aemann-lin-mccornack) at [Princeton University](https://www.princeton.edu) and a recipient of the [Laurance S. Rockefeller Graduate Prize Fellowship](https://uchv.princeton.edu/fellowships-funding/graduate/graduate-prize-fellowships) (University Center for Human Values), 2025–2026. My research studies the politics of autocracy in, and through, the history of political thought. 
