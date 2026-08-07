@@ -65,6 +65,9 @@ body {
   border-bottom: none !important;
   box-shadow: none !important;
 }
+.masthead::after {
+  display: none !important;
+}
 .masthead__inner-wrap {
   background: transparent !important;
   border-bottom: none !important;
