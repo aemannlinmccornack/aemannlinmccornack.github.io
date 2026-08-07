@@ -80,6 +80,7 @@ body {
 }
 .greedy-nav .visible-links li a {
   color: #fff !important;
+  font-weight: 700 !important;
 }
 .masthead a,
 .greedy-nav a,
