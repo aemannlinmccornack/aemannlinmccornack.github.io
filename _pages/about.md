@@ -61,7 +61,7 @@ body {
   display: none !important;
 }
 .masthead {
-  background: rgba(0, 105, 148, 0.94) !important;
+  background: transparent !important;
   border-bottom: none !important;
   box-shadow: none !important;
 }
