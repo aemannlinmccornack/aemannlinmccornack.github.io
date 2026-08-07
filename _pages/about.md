@@ -42,11 +42,8 @@ body {
   padding-bottom: 0.3em;
   color: #1f3a5f;
 }
-.site-title {
-  display: inline-block;
-  width: 200px;
-  text-align: center;
-  margin-left: 20px;
+.masthead__menu-item--lg {
+  display: none !important;
 }
 #theme-toggle {
   display: none !important;
