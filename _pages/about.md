@@ -62,6 +62,8 @@ body {
 }
 .masthead {
   background: rgba(0, 105, 148, 0.94) !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
 }
 .masthead__inner-wrap {
   background: transparent !important;
