@@ -67,9 +67,13 @@ body {
 }
 .masthead__inner-wrap {
   background: transparent !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
 }
 .greedy-nav {
   background: transparent !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
 }
 .masthead__menu-item {
   background: transparent !important;
