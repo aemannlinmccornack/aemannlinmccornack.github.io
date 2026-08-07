@@ -60,6 +60,12 @@ body {
 .greedy-nav {
   background: transparent !important;
 }
+.masthead__menu-item {
+  background: transparent !important;
+}
+.greedy-nav .visible-links li a {
+  color: #fff !important;
+}
 .masthead a,
 .greedy-nav a,
 .greedy-nav .site-title {
