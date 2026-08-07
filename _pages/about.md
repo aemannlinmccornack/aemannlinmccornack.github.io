@@ -45,6 +45,10 @@ body {
 .masthead__menu-item--lg {
   display: none !important;
 }
+.greedy-nav .visible-links {
+  margin-left: auto;
+  margin-right: auto;
+}
 #theme-toggle {
   display: none !important;
 }
