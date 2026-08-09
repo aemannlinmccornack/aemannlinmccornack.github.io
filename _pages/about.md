@@ -114,7 +114,7 @@ summary {
 
 I am a Ph.D. candidate in [Politics](https://politics.princeton.edu/people/aemann-lin-mccornack) at [Princeton University](https://www.princeton.edu) and a recipient of the [Laurance S. Rockefeller Graduate Prize Fellowship](https://uchv.princeton.edu/fellowships-funding/graduate/graduate-prize-fellowships) (University Center for Human Values), 2025–2026. My research studies the politics of autocracy in, and through, the history of political thought. 
 
-My first book project, ***The Politics of Ruling Alone***, traces the many origins of autocracy across early China and classical Greece in fourth- and third- century BCE. This work sits at the intersection of history of political thought, comparative politics, classics, early Chinese studies, in particular, philology and studies of materiality (Greek epigraphy; pre-imperial/Qin/Han excavated manuscripts), and it has sharpened my interest in questions of comparative methodology. Beyond method, my substantive concerns lie with broader themes of injustice and oppression in autocratic and democratic political institutions in the history of political thought, as well as 20th century intellectual discourse of origins of autocracy. See "Publications" and "Future Project" for more. 
+My first book project, ***The Politics of Ruling Alone***, traces the many origins of autocracy across early China and classical Greece in fourth- and third- century BCE. This work sits at the intersection of history of political thought, comparative politics, classics, early Chinese studies, in particular, philology and studies of materiality (Greek epigraphy; pre-imperial/Qin/Han excavated manuscripts), and it has sharpened my interest in questions of comparative methodology. Beyond method, my substantive concerns lie with broader themes of injustice and oppression in autocratic and democratic political institutions in the history of political thought. See "Publications" and "Future Project" for more. 
 
 I can be reached at [ml9634@princeton.edu](mailto:ml9634@princeton.edu) or [aemann@princeton.edu](mailto:aemann@princeton.edu). Please do not hesitate to reach out! 
 
@@ -155,7 +155,6 @@ Drawing on a comprehensive study of the 'by nature' (φύσει) formulation acr
 
 
 ## Future Projects 
-
 
 ## Teaching
 
