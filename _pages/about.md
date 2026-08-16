@@ -154,8 +154,6 @@ Drawing on a comprehensive study of the 'by nature' (φύσει) formulation acr
 
 ## Future Projects 
 
-1. 
-
 ## Teaching
 
 **Spring 2026 — POL 513: "Plato's *Republic*"** (Political Theory / Classics, Graduate Seminar)<br>
