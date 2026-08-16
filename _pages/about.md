@@ -151,10 +151,10 @@ Drawing on a comprehensive study of the 'by nature' (φύσει) formulation acr
 
 2. **From Severance to Dependence: Preference Legibility, Bureaucratic Politics, and the Han Feizi's Reconciliation of Rule of Law and Rule of One.** *(Draft available upon request.)* 
 
-3. **Laboring Demos and the Birth of the Bastard Son: Intergenerational Trauma, Domestic Abuse, and Political Resentment of Plato's Populist-Tyrant** *(Draft available upon request.)* 
-
 
 ## Future Projects 
+
+1. 
 
 ## Teaching
 
