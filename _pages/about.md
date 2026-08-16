@@ -91,7 +91,7 @@ body {
   color: #fff !important;
 }
 .sidebar {
-  background: rgba(165, 62, 40, 0.94);
+  background: rgba(52, 80, 107, 0.94);
   padding: 30px;
   border-radius: 8px;
   margin-left: 30px;
