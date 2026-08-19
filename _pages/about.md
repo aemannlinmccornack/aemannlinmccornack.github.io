@@ -120,7 +120,7 @@ I can be reached at [ml9634@princeton.edu](mailto:ml9634@princeton.edu) or [aema
 
 ## Dissertation | First Book Project
 
-***The Politics of Ruling Alone: Discursive Repertoires and the Contestations of Sole Rulership in Early China and Classical Greece*** 
+***The Politics of Ruling Alone: Discursive Repertoires and the Contestation of Sole Rulership in Early China and Classical Greece*** 
 
 <details><summary>Abstract</summary>
 
