@@ -23,7 +23,7 @@ repository               : "aemannlinmccornack/aemannlinmccornack.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://aemannlinmccornack.github.io/images/aemann.jpeg"
+  avatar           : 
   name             : "Aemann Lin-McCornack"
   pronouns         : 
   bio              : "Ph.D. Candidate" 
