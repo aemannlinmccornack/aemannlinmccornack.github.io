@@ -8,10 +8,16 @@ author_profile: true
 #main {
   max-width: 1800px !important;
 }
+.author__avatar {
+  display: block !important;
+  width: 100% !important;
+}
 .author__avatar img {
   border-radius: 0 !important;
   border: none !important;
   box-shadow: none !important;
+  width: 100% !important;
+  max-width: 100% !important;
 }
 
 .page__footer {
