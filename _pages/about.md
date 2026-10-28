@@ -195,5 +195,3 @@ Teaching evaluation: 5/5.
 
 1. [SAMPLE] Ruling Alone: Concepts of Autocracy in the History of Political Thought (available upon request)
 2. POL 553: Plato's *Gorgias* [with Melissa Lane] (available upon request) 
-
-Background Image: Blake, William. "Behemoth and Leviathan," in *Illustrations of the Book of Job*. 1825–26. Engraving. The Metropolitan Museum of Art, NY. The serpent is the Leviathan.  
