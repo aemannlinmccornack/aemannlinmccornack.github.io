@@ -77,13 +77,13 @@ author_profile: true
   background: transparent !important;
 }
 .greedy-nav .visible-links li a {
-  color: #fff !important;
+  color: #16293f !important;
   font-weight: 700 !important;
 }
 .masthead a,
 .greedy-nav a,
 .greedy-nav .site-title {
-  color: #fff !important;
+  color: #16293f !important;
 }
 .sidebar {
   background: rgba(52, 80, 107, 0.94);
