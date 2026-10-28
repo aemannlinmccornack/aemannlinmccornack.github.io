@@ -19,7 +19,16 @@ author_profile: true
   width: 100% !important;
   max-width: 100% !important;
 }
-
+@media (min-width: 1024px) {
+  .sidebar {
+    width: 340px !important;
+    max-width: 340px !important;
+  }
+  .page {
+    width: calc(100% - 420px) !important;
+    padding-left: 40px !important;
+  }
+}
 .page__footer {
   display: none !important;
 }
