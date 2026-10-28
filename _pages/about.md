@@ -13,12 +13,7 @@ author_profile: true
   border: none !important;
   box-shadow: none !important;
 }
-body {
-  background-image: url("https://aemannlinmccornack.github.io/images/William.jpg");
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center;
-}
+
 .page__footer {
   display: none !important;
 }
